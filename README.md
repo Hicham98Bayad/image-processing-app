@@ -8,10 +8,10 @@ Filtre passe Bas :
 - mediane
 - moyenne
 
--Hough 
--Harris
--HoughLine
--HoughT
+- Hough 
+- Harris
+- HoughLine
+- HoughT
 
 Morphologie :
 - Dilatation
@@ -24,8 +24,12 @@ Morphologie Mathématique
 Convertir image niveaux de gris
 
 binarisation d'une image 
+
 Agrandir d'un image 
+
 Reduire d'un image 
+
 Image Claire
+
 FFT 
 ...
